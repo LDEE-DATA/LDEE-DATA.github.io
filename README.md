@@ -1,1 +1,2 @@
-# LDEE-DATA.github.io
+# LegalTool
+One-stop processing platform for legal data
